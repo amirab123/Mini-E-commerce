@@ -32,7 +32,7 @@ function Checkout() {
           </div>
         )}
 
-   
+   git add .
         {cart.length === 0 ? (
           <div className="bg-white p-10 rounded-2xl shadow text-center">
             <p className="text-gray-500 text-lg">
